@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="5551" started-at="2020-03-22T16:56:51Z" finished-at="2020-03-22T16:56:57Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="5551" started-at="2020-03-22T16:56:51Z" finished-at="2020-03-22T16:56:57Z">
+      <class name="crudMethods.Demo">
+        <test-method status="PASS" signature="myFirstTest()[pri:0, instance:crudMethods.Demo@9a8472]" name="myFirstTest" duration-ms="2876" started-at="2020-03-22T22:26:51Z" finished-at="2020-03-22T22:26:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myFirstTest -->
+        <test-method status="PASS" signature="mySecondTest()[pri:0, instance:crudMethods.Demo@9a8472]" name="mySecondTest" duration-ms="519" started-at="2020-03-22T22:26:54Z" finished-at="2020-03-22T22:26:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mySecondTest -->
+        <test-method status="PASS" signature="myThirdTest()[pri:0, instance:crudMethods.Demo@9a8472]" name="myThirdTest" duration-ms="662" started-at="2020-03-22T22:26:55Z" finished-at="2020-03-22T22:26:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myThirdTest -->
+        <test-method status="PASS" signature="myFourthTest()[pri:0, instance:crudMethods.Demo@9a8472]" name="myFourthTest" duration-ms="442" started-at="2020-03-22T22:26:55Z" finished-at="2020-03-22T22:26:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myFourthTest -->
+        <test-method status="PASS" signature="myFifthTest()[pri:0, instance:crudMethods.Demo@9a8472]" name="myFifthTest" duration-ms="293" started-at="2020-03-22T22:26:56Z" finished-at="2020-03-22T22:26:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myFifthTest -->
+        <test-method status="PASS" signature="mySixthTest()[pri:0, instance:crudMethods.Demo@9a8472]" name="mySixthTest" duration-ms="720" started-at="2020-03-22T22:26:56Z" finished-at="2020-03-22T22:26:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mySixthTest -->
+      </class> <!-- crudMethods.Demo -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
